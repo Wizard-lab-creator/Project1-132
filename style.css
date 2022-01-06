@@ -1,0 +1,22 @@
+body{
+    background-color: violet;
+    color: rgb(216, 56, 56);
+    font-size: 15px;
+}
+canvas{
+    width: 500px;
+    height: 550px;
+    border: 5px 5px 5px royalblue;
+    box-shadow: 5px 5px 5px chartreuse;
+}
+center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;    
+}
+.status{
+    background-color: cornflowerblue;
+    font-size: 20px;
+    padding: 19px;
+    margin: 24px;
+}
